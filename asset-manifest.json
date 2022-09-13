@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-api-crypto-tracker/static/css/main.1980d3c8.css",
+    "main.js": "/React-api-crypto-tracker/static/js/main.fbc711dd.js",
+    "index.html": "/React-api-crypto-tracker/index.html",
+    "main.1980d3c8.css.map": "/React-api-crypto-tracker/static/css/main.1980d3c8.css.map",
+    "main.fbc711dd.js.map": "/React-api-crypto-tracker/static/js/main.fbc711dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1980d3c8.css",
+    "static/js/main.fbc711dd.js"
+  ]
+}
